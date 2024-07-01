@@ -1,4 +1,4 @@
-# <p align="center"> TASK 1: Titanic Survival Prediction </p>
+# <p align="center"> Titanic Survival Prediction </p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Masterx-AI/Project_Titanic_Survival_Prediction_/main/titanic.jpg" alt="Titanic Survival Prediction" width="600" height="300">
